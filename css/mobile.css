@@ -1,0 +1,12 @@
+body {
+  font-size: 16px;
+}
+
+#cast #header {
+  font-size: 14px;
+}
+/* create error section by js when fields are not completed correctly */
+#cast .error {
+  font-size: 16px;
+  margin-bottom: 1rem;
+}
